@@ -1,4 +1,4 @@
-**Business Communication
+**Business Communication**
 
 1. Collect – collecting, saving, and organizing artefacts from programs of study, courses, and individual learning experiences
 2. Select – using a critical framework to choose the artefacts that best serve as evidence of learning and development
