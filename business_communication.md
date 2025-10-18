@@ -19,7 +19,7 @@
 
 📄 View Meeting Minutes  
 
-4. Formal Report  
+**4. Formal Report**  
 
 I produced a Formal Report as part of a workplace learning project. The report summarizes research findings, analysis, and recommendations in a structured and professional format, demonstrating my capability to communicate technical and analytical information effectively.  
 
