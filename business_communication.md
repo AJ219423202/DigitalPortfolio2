@@ -1,8 +1,5 @@
 **Business Communication**  
---Evidence--  
-<img width="999" height="377" alt="image" src="https://github.com/user-attachments/assets/9caa3518-38f1-43e7-9c03-464e2eb05b4d" />  
- 
-**Evidence**  
+
 **1. Business Communication Course**  
 
 - I completed a Business Communication module that focused on developing professional writing, presentation, and interpersonal communication skills for the workplace. The course helped me understand how to adapt tone and structure to suit different business contexts and audiences.  
@@ -40,4 +37,4 @@ Action:
 - I applied course principles when writing professional emails, documenting meetings, and preparing formal reports. I made sure each communication piece was well-structured, concise, and tailored to its audience while following proper business writing conventions.  
 
 Result:  
--- These artefacts demonstrate my growth in communicating with confidence and professionalism. The experience strengthened my ability to present information clearly, adapt tone to suit the situation, and contribute effectively within a workplace setting.  
+- These artefacts demonstrate my growth in communicating with confidence and professionalism. The experience strengthened my ability to present information clearly, adapt tone to suit the situation, and contribute effectively within a workplace setting.  
