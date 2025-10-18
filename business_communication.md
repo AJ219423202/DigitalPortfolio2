@@ -1,4 +1,6 @@
-## Business Communication   
+# Business Communication   
+
+## Evidence
 
 **1. Business Communication Course**  
 
@@ -25,7 +27,7 @@ I produced a Formal Report as part of a workplace learning project. The report s
 
 📄 View Report  
 
-**Reflection**  
+## Reflection   
 
 *Situation:*  
 Throughout the semester, I learned and practiced key communication techniques that apply directly to professional environments.  
