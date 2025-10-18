@@ -1,6 +1,6 @@
-**Professional Networking**  
+# Professional Networking  
 
-**Evidence**  
+## Evidence  
 
 **1. Professional Networking Module**  
 
@@ -26,7 +26,7 @@ I participated in several networking-related exercises, such as online professio
 
 📄 View Reflection Document  
 
-**Reflection**  
+## Reflection  
 
 *Situation:*  
 Throughout this module, I learned how to create, expand, and sustain a professional network that supports career development and personal growth.  
