@@ -2,7 +2,7 @@
 
 **1. Business Communication Course**  
 
-- I completed a Business Communication module that focused on developing professional writing, presentation, and interpersonal communication skills for the workplace. The course helped me understand how to adapt tone and structure to suit different business contexts and audiences.  
+I completed a Business Communication module that focused on developing professional writing, presentation, and interpersonal communication skills for the workplace. The course helped me understand how to adapt tone and structure to suit different business contexts and audiences.  
 
 <img width="1830" height="910" alt="image" src="https://github.com/user-attachments/assets/f86a910b-b9fc-443e-9d17-b7e2000f7459" />
   
