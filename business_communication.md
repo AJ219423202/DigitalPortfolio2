@@ -9,13 +9,13 @@ I completed a Business Communication module that focused on developing professio
 
 **2. Professional Email**  
 
-- As part of my workplace learning activities, I drafted a formal email to update a colleague on project progress and clarify next steps. This demonstrates my ability to write clear, polite, and goal-driven messages that support teamwork and accountability.  
+As part of my workplace learning activities, I drafted a formal email to update a colleague on project progress and clarify next steps. This demonstrates my ability to write clear, polite, and goal-driven messages that support teamwork and accountability.  
 
 <img width="999" height="377" alt="image" src="https://github.com/user-attachments/assets/9caa3518-38f1-43e7-9c03-464e2eb05b4d" />  
 
 **3. Meeting Minutes**  
 
-- I compiled Meeting Minutes to record team discussions, decisions, and assigned actions. This task reflects my ability to capture key information accurately, stay organized, and ensure that all team members are informed and aligned on project objectives.  
+I compiled Meeting Minutes to record team discussions, decisions, and assigned actions. This task reflects my ability to capture key information accurately, stay organized, and ensure that all team members are informed and aligned on project objectives.  
 
 📄 View Meeting Minutes  
 
