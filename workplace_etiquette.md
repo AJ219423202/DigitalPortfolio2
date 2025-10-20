@@ -5,7 +5,7 @@
 
 I completed the Workplace Etiquette module and quiz that explored the principles of professionalism and appropriate behavior in a work environment. The course covered the expectations of professional conduct, ethical decision-making, accountability, and effective collaboration across diverse workplace settings.  
 
-<img width="342" height="325" alt="Screenshot 2025-10-20 123154" src="https://github.com/user-attachments/assets/06dd6b5c-0bbe-424d-943f-1ef9257ed317" />  
+[Workplace Etiquette Completion](https://github.com/AJ219423202/DigitalPortfolio2/blob/693977f898a5fae5b87fd13d82db9e7fadd3297c/Files/WORKPLACE_ETIQUETTE.png)  
 
 As part of the Workplace Etiquette module, I examined real-world examples of professional and unprofessional behavior in different workplace scenarios—such as customer interactions, team collaboration, and conflict resolution. Which deepened my understanding of how professionalism influences trust, respect, and career progression. I also reviewed a sample Company Code of Conduct to learn how organizations define professional and ethical standards, emphasizing the importance of aligning personal conduct with company values. To reinforce these lessons, I developed a Professional Behavior Checklist summarizing the key “Do’s and Don’ts” of workplace professionalism, focusing on the five main pillars: being polite, accountable, appropriate, ethical, and positive.
 
