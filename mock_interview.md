@@ -1,7 +1,7 @@
 # Mock Interview Assessment
 ## 📄 Evidence
 
-**Mock Interview Session**  
+**Mock Interview Video**  
 
 I participated in a Mock Interview Assessment that simulated a professional job interview scenario. The activity allowed me to demonstrate interview etiquette, confident communication, and structured responses while receiving feedback on my overall performance and presentation.  
 
