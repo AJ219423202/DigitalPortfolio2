@@ -1,4 +1,4 @@
-# 🎤 Mock Interview Assessment
+# Mock Interview Assessment
 ## 📄 Evidence
 
 **Mock Interview Session**  
