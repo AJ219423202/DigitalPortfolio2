@@ -4,7 +4,7 @@
 
 **Professional Networking Module**  
 
-I successfully completed a Professional Networking course that explored the importance of building and maintaining genuine, mutually beneficial relationships. The module emphasized how networking supports career growth, mentorship, and professional confidence through consistent engagement and authentic communication.  
+I successfully completed the Professional Networking module & quiz that explored the importance of building and maintaining genuine, mutually beneficial relationships. The module emphasized how networking supports career growth, mentorship, and professional confidence through consistent engagement and authentic communication.  
 
 [Professional Networking Completion](https://github.com/AJ219423202/DigitalPortfolio2/blob/20488c13a671ee222c5670c0c709b0feb640764d/Files/PROFESSIONAL_NETWORK.png)
 
