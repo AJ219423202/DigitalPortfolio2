@@ -1,6 +1,27 @@
-**Workplace Etiquette**
+# 🏢 Workplace Etiquette  
+## 📄 Evidence  
+**Workplace Etiquette Module & Quiz**  
 
-1. Collect – collecting, saving, and organizing artefacts from programs of study, courses, and individual learning experiences
-2. Select – using a critical framework to choose the artefacts that best serve as evidence of learning and development
-3. Reflect – reflecting, in a structured way, on how the evidence that has been selected demonstrates an evolution in learning
-4. Connect – identifying points of connection across the artefacts and reflections for the purpose of creating a polished summary
+I completed the Workplace Etiquette module and quiz that explored the principles of professionalism and appropriate behavior in a work environment. The course covered the expectations of professional conduct, ethical decision-making, accountability, and effective collaboration across diverse workplace settings.  
+
+<img width="342" height="325" alt="Screenshot 2025-10-20 123154" src="https://github.com/user-attachments/assets/06dd6b5c-0bbe-424d-943f-1ef9257ed317" />  
+
+As part of the Workplace Etiquette module, I examined real-world examples of professional and unprofessional behavior in different workplace scenarios—such as customer interactions, team collaboration, and conflict resolution. Which deepened my understanding of how professionalism influences trust, respect, and career progression. I also reviewed a sample Company Code of Conduct to learn how organizations define professional and ethical standards, emphasizing the importance of aligning personal conduct with company values. To reinforce these lessons, I developed a Professional Behavior Checklist summarizing the key “Do’s and Don’ts” of workplace professionalism, focusing on the five main pillars: being polite, accountable, appropriate, ethical, and positive.
+
+## 💬 Reflection  
+
+**Situation:**  
+
+During this module, I explored what it means to act professionally and how workplace behavior influences reputation, trust, and career growth.  
+
+**Task:**  
+
+My goal was to identify the behaviors, attitudes, and practices that define professionalism, and learn how to apply them in different workplace scenarios—both in-person and remote.  
+
+**Action:**  
+
+I studied best practices such as maintaining respectful communication, managing time effectively, dressing appropriately, and staying accountable for work outcomes. I also learned to handle conflict privately, act ethically, and maintain a positive attitude when facing challenges. To reinforce these lessons, I developed a personal checklist and reviewed professional codes of conduct.  
+
+**Result:**  
+
+Through this module, I gained a strong understanding of how professionalism builds trust and credibility in any role. I now approach workplace interactions with greater awareness, ensuring my actions reflect respect, accountability, and integrity. These habits not only enhance teamwork and productivity but also contribute to long-term career success.  
