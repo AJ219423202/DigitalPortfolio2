@@ -9,7 +9,7 @@ I completed a Professional Interview Skills module and quiz that focused on mast
 
 As part of the Interview Skills module, I developed a Job Interview Preparation Plan that highlights effective research, personal branding, and response strategies to ensure thorough readiness for professional interviews. This included analyzing company information, aligning my career goals with job requirements, and identifying my key strengths and motivations. I also took part in a Mock Interview Session, where I practiced interview etiquette, confident body language, and structured responses using the CAR (Context–Action–Result) method, which enhanced my communication skills and composure under pressure. Additionally, I created a set of Sample Interview Responses for both common and behavioral questions, demonstrating my problem-solving, teamwork, and leadership abilities while showcasing my ability to express experiences and achievements clearly and effectively.  
 
-## Reflection  
+## 💬Reflection  
 
 **Situation:**  
 During this module, I focused on developing strong interview skills to prepare for real-world job opportunities within the IT industry.  
