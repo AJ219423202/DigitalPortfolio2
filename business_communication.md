@@ -6,7 +6,7 @@
 
 I completed a Business Communication module that focused on developing professional writing, presentation, and interpersonal communication skills for the workplace. The course helped me understand how to adapt tone and structure to suit different business contexts and audiences.  
 
-<img width="1830" height="910" alt="image" src="https://github.com/user-attachments/assets/f86a910b-b9fc-443e-9d17-b7e2000f7459" />
+[Business Communication Completion](https://github.com/AJ219423202/DigitalPortfolio2/blob/3f45a8c967d1039f28e4ed266d229625bb28a046/Files/BUSINESS_COMMUNICATION.png)
   
 
 **2. Professional Email**  
