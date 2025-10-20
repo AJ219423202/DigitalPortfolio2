@@ -2,7 +2,7 @@
 
 ## 📄Evidence  
 
-**Professional Networking Module**  
+**Professional Networking Module & Quiz**  
 
 I successfully completed the Professional Networking module & quiz that explored the importance of building and maintaining genuine, mutually beneficial relationships. The module emphasized how networking supports career growth, mentorship, and professional confidence through consistent engagement and authentic communication.  
 
