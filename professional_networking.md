@@ -2,7 +2,7 @@
 
 ## Evidence  
 
-**1. Professional Networking Module**  
+**Professional Networking Module**  
 
 I successfully completed a Professional Networking course that explored the importance of building and maintaining genuine, mutually beneficial relationships. The module emphasized how networking supports career growth, mentorship, and professional confidence through consistent engagement and authentic communication.  
 
