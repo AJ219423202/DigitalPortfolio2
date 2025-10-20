@@ -1,5 +1,6 @@
 # 🏢 Workplace Etiquette  
 ## 📄 Evidence  
+
 **Workplace Etiquette Module & Quiz**  
 
 I completed the Workplace Etiquette module and quiz that explored the principles of professionalism and appropriate behavior in a work environment. The course covered the expectations of professional conduct, ethical decision-making, accountability, and effective collaboration across diverse workplace settings.  
@@ -11,17 +12,13 @@ As part of the Workplace Etiquette module, I examined real-world examples of pro
 ## 💬 Reflection  
 
 **Situation:**  
-
 During this module, I explored what it means to act professionally and how workplace behavior influences reputation, trust, and career growth.  
 
 **Task:**  
-
 My goal was to identify the behaviors, attitudes, and practices that define professionalism, and learn how to apply them in different workplace scenarios—both in-person and remote.  
 
 **Action:**  
-
 I studied best practices such as maintaining respectful communication, managing time effectively, dressing appropriately, and staying accountable for work outcomes. I also learned to handle conflict privately, act ethically, and maintain a positive attitude when facing challenges. To reinforce these lessons, I developed a personal checklist and reviewed professional codes of conduct.  
 
 **Result:**  
-
 Through this module, I gained a strong understanding of how professionalism builds trust and credibility in any role. I now approach workplace interactions with greater awareness, ensuring my actions reflect respect, accountability, and integrity. These habits not only enhance teamwork and productivity but also contribute to long-term career success.  
